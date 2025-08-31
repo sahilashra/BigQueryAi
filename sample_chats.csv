@@ -1,0 +1,11 @@
+message_id,user_id,timestamp,message
+1,user_123,2025-08-31T10:00:00Z,"Hi, I'm having trouble with my subscription."
+2,user_456,2025-08-31T10:01:00Z,"Thanks for the quick response! That fixed it."
+3,user_123,2025-08-31T10:02:00Z,"Nevermind, it's broken again. This is so frustrating."
+4,user_789,2025-08-31T10:03:00Z,"Can you explain the new features in the latest update?"
+5,user_456,2025-08-31T10:04:00Z,"You guys are the best! 🚀"
+6,user_123,2025-08-31T10:05:00Z,"I want to cancel my account. The service is terrible."
+7,user_789,2025-08-31T10:06:00Z,"That's great, thank you for the clarification."
+8,user_101,2025-08-31T10:07:00Z,"I love the new dark mode! It's so much easier on the eyes."
+9,user_102,2025-08-31T10:08:00Z,"The app keeps crashing on my new phone. What's the deal?"
+10,user_103,2025-08-31T10:09:00Z,"How do I reset my password? I can't find the option anywhere."

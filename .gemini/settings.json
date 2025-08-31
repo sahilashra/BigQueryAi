@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "supermemory": {
+    "command": "npx",
+    "args": [
+      "@supermemory/mcp-server",
+      "https://mcp.supermemory.ai/xboz_i2i-F1YKotvzGHTs/sse"
+    ]
+  },
+    "playwright": {
+      "command": "npx",
+      "args": [
+        "@playwright/mcp@latest"
+      ]
+    }
+  }
+}
